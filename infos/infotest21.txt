@@ -1,0 +1,45 @@
+Starting training:
+	 - Model: test21
+	 - Learning rate: 1.0e-03
+	 - Batch size: 64
+	 - Epochs: 100
+	 - Weight decay: 0.0001
+	 - Device: cpu 
+Epoch {epoch+1}/{epochs} - Training Loss: 0.5315 - Training Accuracy: 72.8730 % - Validation Loss: 0.4942 - Validation Accuracy: 76.0700 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.5012 - Training Accuracy: 75.0520 % - Validation Loss: 0.5033 - Validation Accuracy: 76.5725 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4935 - Training Accuracy: 75.4852 % - Validation Loss: 0.4897 - Validation Accuracy: 76.6592 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4905 - Training Accuracy: 75.7581 % - Validation Loss: 0.4838 - Validation Accuracy: 76.7458 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4899 - Training Accuracy: 75.7408 % - Validation Loss: 0.4832 - Validation Accuracy: 76.6418 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4875 - Training Accuracy: 75.8144 % - Validation Loss: 0.4836 - Validation Accuracy: 76.6938 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4881 - Training Accuracy: 75.9097 % - Validation Loss: 0.4844 - Validation Accuracy: 76.5725 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4871 - Training Accuracy: 76.2649 % - Validation Loss: 0.4821 - Validation Accuracy: 76.8324 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4864 - Training Accuracy: 76.1653 % - Validation Loss: 0.4863 - Validation Accuracy: 77.2656 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4864 - Training Accuracy: 76.1090 % - Validation Loss: 0.4860 - Validation Accuracy: 76.5725 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4824 - Training Accuracy: 76.3862 % - Validation Loss: 0.4853 - Validation Accuracy: 76.7458 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4845 - Training Accuracy: 76.1913 % - Validation Loss: 0.4879 - Validation Accuracy: 76.9537 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4836 - Training Accuracy: 76.3386 % - Validation Loss: 0.4865 - Validation Accuracy: 76.9018 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4817 - Training Accuracy: 76.3992 % - Validation Loss: 0.4816 - Validation Accuracy: 76.7458 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4832 - Training Accuracy: 76.3039 % - Validation Loss: 0.4897 - Validation Accuracy: 77.2830 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4817 - Training Accuracy: 76.2303 % - Validation Loss: 0.4821 - Validation Accuracy: 76.9884 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4816 - Training Accuracy: 76.1307 % - Validation Loss: 0.4856 - Validation Accuracy: 76.7458 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4803 - Training Accuracy: 76.5119 % - Validation Loss: 0.4861 - Validation Accuracy: 77.4909 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4806 - Training Accuracy: 76.3732 % - Validation Loss: 0.4926 - Validation Accuracy: 77.0230 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4795 - Training Accuracy: 76.4252 % - Validation Loss: 0.4820 - Validation Accuracy: 77.0057 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4778 - Training Accuracy: 76.6202 % - Validation Loss: 0.4770 - Validation Accuracy: 76.8324 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4798 - Training Accuracy: 76.5812 % - Validation Loss: 0.4858 - Validation Accuracy: 77.5256 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4799 - Training Accuracy: 76.2779 % - Validation Loss: 0.4897 - Validation Accuracy: 76.6938 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4783 - Training Accuracy: 76.6938 % - Validation Loss: 0.4819 - Validation Accuracy: 77.4562 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4790 - Training Accuracy: 76.5292 % - Validation Loss: 0.4820 - Validation Accuracy: 77.8028 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4786 - Training Accuracy: 76.7155 % - Validation Loss: 0.4787 - Validation Accuracy: 77.3176 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4786 - Training Accuracy: 76.2519 % - Validation Loss: 0.4774 - Validation Accuracy: 77.3523 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4767 - Training Accuracy: 76.6635 % - Validation Loss: 0.4846 - Validation Accuracy: 77.4389 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4759 - Training Accuracy: 76.7675 % - Validation Loss: 0.4879 - Validation Accuracy: 77.1790 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4768 - Training Accuracy: 76.5249 % - Validation Loss: 0.4832 - Validation Accuracy: 77.3176 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4761 - Training Accuracy: 76.8628 % - Validation Loss: 0.4811 - Validation Accuracy: 77.2137 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4778 - Training Accuracy: 76.6375 % - Validation Loss: 0.4866 - Validation Accuracy: 77.7162 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4794 - Training Accuracy: 76.5422 % - Validation Loss: 0.4735 - Validation Accuracy: 77.4909 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4766 - Training Accuracy: 76.5335 % - Validation Loss: 0.4908 - Validation Accuracy: 77.2830 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4761 - Training Accuracy: 76.7675 % - Validation Loss: 0.4748 - Validation Accuracy: 77.2656 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4754 - Training Accuracy: 76.7068 % - Validation Loss: 0.4838 - Validation Accuracy: 77.3869 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4756 - Training Accuracy: 76.6635 % - Validation Loss: 0.4864 - Validation Accuracy: 77.4389 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4744 - Training Accuracy: 76.7718 % - Validation Loss: 0.4746 - Validation Accuracy: 77.2137 %

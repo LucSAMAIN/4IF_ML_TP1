@@ -1,0 +1,10 @@
+Starting training:
+	 - Model: test14
+	 - Learning rate: 1.0e-03
+	 - Batch size: 256
+	 - Epochs: 1000
+	 - Weight decay: 0.0001
+	 - Device: cpu 
+Epoch {epoch+1}/{epochs} - Training Loss: 0.5492 - Training Accuracy: 71.8116 % - Validation Loss: 0.4883 - Validation Accuracy: 76.8671 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.5064 - Training Accuracy: 74.5971 % - Validation Loss: 0.4776 - Validation Accuracy: 76.9191 %
+Epoch {epoch+1}/{epochs} - Training Loss: 0.4954 - Training Accuracy: 75.3596 % - Validation Loss: 0.4771 - Validation Accuracy: 77.0404 %
