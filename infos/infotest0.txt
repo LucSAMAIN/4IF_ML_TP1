@@ -1,0 +1,7 @@
+Starting training:
+	 - Model: test0
+	 - Learning rate: 0.001
+	 - Batch size: 128
+	 - Epochs: 100
+	 - Weight decay: 0.0001
+	 - Device: cpu 
